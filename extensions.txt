@@ -1,0 +1,18 @@
+icons ------> Nordzy icons : https://github.com/alvatip/Nordzy-icon
+ 
+Extensions :
+
+ Dash to Dock
+ Space Bar
+ Logo Menu
+ User Themes
+ Clipboard Indicator
+ Top Panel Logo
+ Just Perfection
+ Vitals
+ Lock Keys
+ Extension List
+ Hide Top Bar
+ Apps Menu
+
+
